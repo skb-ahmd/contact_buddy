@@ -17,10 +17,6 @@ The project follows a clean architecture and incorporates mobile development bes
 
 SQLite is used as the embedded database for seamless data storage.
 
-## Screenshots
-
-Include screenshots or gifs showcasing the app's UI and functionality.
-
 ## Getting Started
 
 1. Clone the repository
